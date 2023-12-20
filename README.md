@@ -21,3 +21,5 @@ b. Дверь. Арка и заслонка, перекрывающая арку
 
 
 Результат: https://ggjnaaaa.github.io/PTG2_result_LR1/
+
+Работа была загружна через git-LFS, полный проект доступен на Яндекс.Диск: https://disk.yandex.ru/d/SEE4gVFrad1eUA
